@@ -30,9 +30,9 @@
      - 심심이는 단어에 대한 학습방법을 사람이 직접 입력해서 처리하는 방법입니다.
      - 따라서 `어떤 단어는 어떻게 처리해라` 라는 조건문을 이용해서 하나하나 일일이 사람이 직접 코드를 짜서 학습시키는 방법이 있습니다.   
 
-     ![image(2)](README.assets/image (2).png)
+     ![image(2)](README.assets/image%20(2).png)
 
-     ![image(3)](README.assets/image (3).png)
+     ![image(3)](README.assets/image%20(3).png)
 
   
 
@@ -41,9 +41,9 @@
      - 따라서 matlab과 tensorflow가 매우 유사한 것도 이 떄문인 것 같습니다. 
      - 위와 같은 이유로 수학과 통계에 기반인 머신러닝이 대두되고 있는 이유입니다. 
 
-  ![image(4)](README.assets/image (4).png)
+  ![image(4)](README.assets/image%20(4).png)
 
-  ![image(5)](README.assets/image (5).png)
+  ![image(5)](README.assets/image%20(5).png)
 
   기계는 자신이 터득한 경럼을 바탕으로 결과값을 보여줍니다. 
 
@@ -61,7 +61,7 @@
 
 현재로서는 가장 널리 사용되고 있는 분야는 사실 딥러닝입니다. 
 
-![image(6)](README.assets/image (6).png)
+![image(6)](README.assets/image%20(6).png)
 
 
 
@@ -141,9 +141,9 @@ perceptron은 선형결합(linear combination)을 f(x)로 사용하기 때문에
 
 위의 신경망 이론을 바탕으로 딥러닝을 이해하 보자면 아래의 사진을 참고해 볼 수 있겠습니다. 
 
-![image(7)](README.assets/image (7).png)
+![image(7)](README.assets/image%20(7).png)
 
-![image(12)](README.assets/image (12).png)
+![image(12)](README.assets/image%20(12).png)
 
 결국 신경망 학습을 기반으로 사전훈련법이 만들어지고 사람들의 인식에 신경망은 도태되었다는 이미지가 강해 `딥러닝(Deeping learning)`으로 이름을 바꾸게 됐습니다! 
 
@@ -159,14 +159,14 @@ perceptron은 선형결합(linear combination)을 f(x)로 사용하기 때문에
 
 인공지능은 크게 3가지로 분류해 볼 수있습니다. 
 
-![image(8)](README.assets/image (8).png)
+![image(8)](README.assets/image%20(8).png)
 
 - 약인공지능
-  - ![image(9)](README.assets/image (9).png)
+  - ![image(9)](README.assets/image%20(9).png)
 - 강인공지능
-  - ![image(10)](README.assets/image (10).png)
+  - ![image(10)](README.assets/image%20(10).png)
 - 초인공지능
-  - ![image(11)](README.assets/image (11).png)
+  - ![image(11)](README.assets/image%20(11).png)
 
 
 
