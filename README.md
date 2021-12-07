@@ -22,7 +22,7 @@
 
 - 기계학습의 2가지 방법(인공적으로 구현한 컴퓨터 프로그램의 학습 방법)
 
-  ![image(1)](README.assets/image (1).png)
+  ![image(1)](README.assets/image%20(1).png)
 
   1. 사람에 의해 학습 
 
